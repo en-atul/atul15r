@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 ```
 
 ```
-```diff
-text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
