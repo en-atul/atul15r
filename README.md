@@ -3,7 +3,7 @@
 
  <a href="https://medium.com/@atul15r"><img src="https://user-images.githubusercontent.com/11331772/28355496-982cbace-6ca7-11e7-856d-2dc4e8b70782.png" width="40px" height="40px"/></a>
  
- <img src="https://miro.medium.com/max/875/1*qJfP0wqwm8t4QdwOJo3WyA.png" width="200px" height="100px"/>
+ <img src="https://miro.medium.com/max/875/1*qJfP0wqwm8t4QdwOJo3WyA.png" width="160px" height="100px"/>
 <!--
 **atul15r/atul15r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
