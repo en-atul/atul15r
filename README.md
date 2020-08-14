@@ -2,6 +2,8 @@
 [![HitCount](http://hits.dwyl.com/atul15r/atul15r.svg)](http://hits.dwyl.com/atul15r/atul15r)
 
  <a href="https://medium.com/@atul15r"><img src="https://user-images.githubusercontent.com/11331772/28355496-982cbace-6ca7-11e7-856d-2dc4e8b70782.png" width="40px" height="40px"/></a>
+ 
+ ![](image1.png)
 <!--
 **atul15r/atul15r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
