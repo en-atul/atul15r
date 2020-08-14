@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/atul15r/atul15r.svg)](http://hits.dwyl.com/atul15r/atul15r)
 
- <a href="https://medium.com/@atul15r"><img src="https://entrepreneurship.columbia.edu/wp-content/uploads/2016/12/Medium-logo-2015-logotype-1024x768.png" width="240px" height="40px"/></a>
+ <a href="https://medium.com/@atul15r"><img src="https://entrepreneurship.columbia.edu/wp-content/uploads/2016/12/Medium-logo-2015-logotype-1024x768.png" width="240px" height="140px"/></a>
 <!--
 **atul15r/atul15r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
