@@ -1,4 +1,4 @@
- <p style="font-size:80px">SCIENCE</p>
+ <div style="font-size:80px;width:100%;text-align:center;">SCIENCE</div>
 
 
 <div style="display:flex;width:100%;height:auto;">
