@@ -6,7 +6,6 @@
 <!--
 [![HitCount](http://hits.dwyl.com/atul15r/atul15r.svg)](http://hits.dwyl.com/atul15r/atul15r)
 
-**atul15r/atul15r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
