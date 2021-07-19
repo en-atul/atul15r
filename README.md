@@ -1,7 +1,17 @@
  
 <!--<div style="height:30px;width:200px;">Hey,<b style="font-weight:100" > hi</b></div></br>
 
-
+<h1>Stack</h1>
+<ul>
+<li>TypeScript</li>
+<li>Reactjs</li>
+<li>React Native</li>
+<li>Redux toolkit</li>
+<li>Nodejs</li>
+<li>Firebase</li>
+<li>MongoDB</li>
+<li>GraphQL</li>
+</ul>
 
 
 
