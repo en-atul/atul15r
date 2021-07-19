@@ -10,7 +10,9 @@
 <li>Firebase</li>
 <li>MongoDB</li>
 <li>GraphQL</li>
- <li>TailwindCSS</li>
+<li>TailwindCSS</li>
+ <li>rxjs</li>
+
 </ul>
  
  
