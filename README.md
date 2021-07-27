@@ -1,7 +1,8 @@
  
  
-<!--  <h1>Stack</h1>
+ <h1>Stack</h1>
 <ul>
+<li>Next.js</li>
 <li>TypeScript</li>
 <li>Reactjs</li>
 <li>React Native</li>
@@ -11,9 +12,9 @@
 <li>MongoDB</li>
 <li>GraphQL</li>
 <li>TailwindCSS</li>
- <li>rxjs</li>
+<li>rxjs</li>
 
-</ul> -->
+</ul>
  
  
 <!--<div style="height:30px;width:200px;">Hey,<b style="font-weight:100" > hi</b></div></br>
