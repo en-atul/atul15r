@@ -1,5 +1,5 @@
  
-<!--  
+ 
  <h1>Stack</h1>
 <ul>
 <li>Next.js</li>
@@ -14,7 +14,7 @@
 <li>TailwindCSS</li>
 <li>rxjs</li>
 
-</ul> -->
+</ul>
  
  
 <!--<div style="height:30px;width:200px;">Hey,<b style="font-weight:100" > hi</b></div></br>
