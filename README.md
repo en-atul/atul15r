@@ -1,5 +1,5 @@
 
-<audio source={https://www.configurator.maserati.com/cc_graphics/8398640/sound/engine.mp3} controls/>
+<audio source={https://www.configurator.maserati.com/cc_graphics/8398640/sound/engine.mp3} autoplay/>
 <!--  
  
  <h1>Stack</h1>
