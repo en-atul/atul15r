@@ -1,9 +1,9 @@
 
 <audio source={https://www.configurator.maserati.com/cc_graphics/8398640/sound/engine.mp3} autoplay/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atul15r&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atul15r&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul15r&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul15r&theme=gotham)
 
 <!--  
  
