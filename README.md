@@ -3,7 +3,7 @@
 
 > Packages
  - https://www.npmjs.com/package/@atul15r/react-collapsible
- -https://www.npmjs.com/package/@atul15r/react-tabs
+ - https://www.npmjs.com/package/@atul15r/react-tabs
 
 
 <!-- <audio source={https://www.configurator.maserati.com/cc_graphics/8398640/sound/engine.mp3} autoplay/>
