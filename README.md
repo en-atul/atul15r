@@ -2,7 +2,6 @@
 <a href="https://codesandbox.io/u/atul15r" target="_blank">CodeSandbox - https://codesandbox.io/u/atul15r</a>
 
 > Packages
- - https://www.npmjs.com/package/@atul15r/react-collapsible
  - https://www.npmjs.com/package/@atul15r/react-tabs
  - https://www.npmjs.com/package/@atul15r/react-drawer
 
