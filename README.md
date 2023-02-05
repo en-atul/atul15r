@@ -32,8 +32,9 @@
 
 > Stack
 
+<ul style="display:flex;">
 <li>
-      <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+     <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
           </li>
 
 <li>
@@ -64,7 +65,7 @@
 <li>
             <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           </li>
-
+</ul>
 
 
 
