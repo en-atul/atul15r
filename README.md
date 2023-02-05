@@ -32,13 +32,10 @@
 
 > Stack
 
-<ul style="display:flex; list-style:none;">
 <li>
       <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
           </li>
-<li>
-            <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-          </li>
+
 <li>
             <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
           </li>
@@ -60,9 +57,7 @@
 <li>
             <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           </li>
-<li>
-            <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-          </li>
+
 <li>
             <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           </li>
@@ -70,7 +65,6 @@
             <img style="width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           </li>
 
-</ul>
 
 
 
