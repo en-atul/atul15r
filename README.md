@@ -9,6 +9,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul15r&theme=gotham)
 
  
+            <i class="devicon-css3-plain colored"></i>
+          
  <h1>Stack</h1>
 <ul>
 <li>Next.js</li>
