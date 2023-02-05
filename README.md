@@ -30,7 +30,7 @@
 
 > Stack
 
-<ul>
+<ul style="display:flex; list-style:none;">
 <li>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
           </li>
