@@ -14,22 +14,11 @@ Hi 👋, I'm Atul
 <li>TailwindCSS</li>
 <li>rxjs</li>
 </ul>  -->
- 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-> Stack
+ > Stack
 
-<div style="display:flex;">
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,mongodb,jest,graphql,firebase,reactivex,redux,react,nodejs,nextjs,html,css,tailwind)](https://skillicons.dev)
+
+
 
 <!--  <div style="display:flex;">
 <a href="https://medium.com/@atul15r"><img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" width="45px" height="33px"/>
