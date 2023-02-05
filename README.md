@@ -13,7 +13,9 @@ Hi 👋, I'm Atul
 <li>GraphQL</li>
 <li>TailwindCSS</li>
 <li>rxjs</li>
-</ul>  -->
+</ul>  
+https://github.com/tandpfun/skill-icons#specifying-icons
+-->
  > Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,mongodb,jest,graphql,firebase,reactivex,redux,react,nodejs,nextjs,html,css,tailwind,rabbitmq,redis,postgres,apollo)](https://skillicons.dev)
