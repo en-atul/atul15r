@@ -15,7 +15,7 @@ Hi 👋, I'm Atul
 <li>rxjs</li>
 </ul>  -->
  
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 > Stack
 
 <div style="display:flex;">
