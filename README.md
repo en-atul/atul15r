@@ -8,10 +8,8 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul15r&theme=gotham)
 
- 
-            <i class="devicon-css3-plain colored"></i>
-          
- <h1>Stack</h1>
+           
+<h1>Stack</h1>
 <ul>
 <li>Next.js</li>
 <li>TypeScript</li>
@@ -28,7 +26,7 @@
 </ul> 
  
  <div style="height:30px;width:200px;">Hey,<b style="font-weight:100" > hi</b></div></br>
-
+\f015
 
 > Stack
 
