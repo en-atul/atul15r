@@ -16,7 +16,7 @@ Hi 👋, I'm Atul
 </ul>  -->
  > Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,mongodb,jest,graphql,firebase,reactivex,redux,react,nodejs,nextjs,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,mongodb,jest,graphql,firebase,reactivex,redux,react,nodejs,nextjs,html,css,tailwind,rabbitmq,redis,postgres,apollo)](https://skillicons.dev)
 
 
 
