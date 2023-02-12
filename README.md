@@ -1,4 +1,4 @@
-Hi 👋, I'm Atul <img src="https://user-images.githubusercontent.com/38523309/218337200-590360d5-5ef2-4465-b357-4c76d72e8086.png" style="width:40px; height: 40px;"/>
+Hi 👋, I'm Atul <img src="https://em-content.zobj.net/source/skype/289/tropical-fish_1f420.png" style="width:40px; height: 40px;"/>
 
 
 <!-- <h1>Stack</h1>
