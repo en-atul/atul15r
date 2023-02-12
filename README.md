@@ -1,4 +1,4 @@
-Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1f6f9.png" style="width:40px; height: 40px;"/> atul
+Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1f6f9.png" style="width:40px; height: 40px;"/> Atul
 
 
 <!-- <h1>Stack</h1>
