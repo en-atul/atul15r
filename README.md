@@ -4,7 +4,7 @@ Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1
 <ul style="margin:10px;">
 <li style="display:flex;">
   <img src="https://em-content.zobj.net/source/skype/289/spouting-whale_1f433.png" style="width:20px; height: 20px;"/>
-  <span>I’m looking to collaborate on <b>JavaScript</b> projects.</span>
+  <span>Looking to collaborate on <b>JavaScript</b> projects.</span>
 </li>
 
 <li style="display:flex;">
