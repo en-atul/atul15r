@@ -2,9 +2,14 @@ Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1
 
 
 <ul style="margin:10px;">
- <li style="display:flex;">
-<img src="https://em-content.zobj.net/source/skype/289/spouting-whale_1f433.png" style="width:20px; height: 20px;"/>
-<span>I’m looking to collaborate on JavaScript Projects.</span>
+<li style="display:flex;">
+  <img src="https://em-content.zobj.net/source/skype/289/spouting-whale_1f433.png" style="width:20px; height: 20px;"/>
+  <span>I’m looking to collaborate on <b>JavaScript</b> projects.</span>
+</li>
+
+<li style="display:flex;">
+  <img src="https://em-content.zobj.net/source/skype/289/man-astronaut_1f468-200d-1f680.png" style="width:20px; height: 20px;"/>
+ <span>Currently learning  <b>Microservices</b> using <b>GraphQL</b></span>
 </li>
 </ul>
 
