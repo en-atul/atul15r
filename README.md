@@ -1,5 +1,13 @@
 Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1f6f9.png" style="width:40px; height: 40px;"/> Atul
 
+
+<ul style="margin:10px;">
+ <li style="display:flex;">
+<img src="https://em-content.zobj.net/source/skype/289/spouting-whale_1f433.png" style="width:40px; height: 40px;"/>
+<p>I’m looking to collaborate on JavaScript Project</>
+</li>
+</ul>
+
  > STACK
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,mongodb,jest,graphql,firebase,reactivex,redux,react,nodejs,nextjs,html,css,tailwind,redis,postgres,apollo)](https://skillicons.dev)
