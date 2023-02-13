@@ -11,6 +11,12 @@ Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1
   <img src="https://em-content.zobj.net/source/skype/289/man-astronaut_1f468-200d-1f680.png" style="width:20px; height: 20px;"/>
  <span>Currently learning  <b>Microservices</b> using <b>GraphQL</b></span>
 </li>
+  
+<!-- <li style="display:flex;">
+ <img src="https://em-content.zobj.net/source/skype/289/man-student_1f468-200d-1f393.png" style="width:20px; height: 20px;"/>
+ <span>Currently learning  <b>Microservices</b> using <b>GraphQL</b></span>
+</li>  -->
+  
 </ul>
 
  > STACK
