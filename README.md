@@ -1,9 +1,9 @@
-Hi 👋, I'm <img src="https://em-content.zobj.net/source/skype/289/skateboard_1f6f9.png" style="width:40px; height: 40px;"/> Atul
+Hi 👋, I'm Atul
 
-
+<!-- <img src="https://em-content.zobj.net/source/skype/289/skateboard_1f6f9.png" style="width:40px; height: 40px;"/> -->
 <ul style="margin:10px;">
 <li style="display:flex;">
-<!--   <img src="https://em-content.zobj.net/source/skype/289/spouting-whale_1f433.png" style="width:20px; height: 20px;"/> -->
+  <img src="https://em-content.zobj.net/source/skype/289/spouting-whale_1f433.png" style="width:20px; height: 20px;"/>
   <span>Looking to collaborate on <b>JavaScript</b> projects</span>
 </li>
 
